@@ -25,3 +25,7 @@
 .card-text-content {
   margin: auto 0;
 }
+
+textarea {
+    resize: none;
+}
